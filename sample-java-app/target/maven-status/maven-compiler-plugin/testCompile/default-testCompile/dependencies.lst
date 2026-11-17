@@ -1,0 +1,7 @@
+classpath:D:\lab7-jenkins-ci\sample-java-app\target\classes	1:3b370edeba882309d6feaae03b758b01ae572c158333bf5eda96b13f9881375b
+classpath:C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar	210956:1794905401340
+classpath:C:\Users\Admin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar	14304:1787822809679
+classpath:C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar	106232:1794905401493
+classpath:C:\Users\Admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar	6806:1787822809511
+classpath:C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar	244690:1794905401725
+classpath:C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar	204821:1794905401690
